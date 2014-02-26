@@ -21,14 +21,14 @@
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
 
-<<<<<<< HEAD
         <!-- Add your site or application content here somente develop-->
-        <p>somente develop.</p>
-=======
-        <!-- Add your site or application content here -->
         <p>somnete master correção</p>
->>>>>>> hotfixes_master_teste
+<<<<<<< HEAD
+		        <p>erro</p>
 
+=======
+        <p>corrigido</p>
+>>>>>>> hotfixes_5
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
