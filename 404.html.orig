@@ -130,7 +130,7 @@
             #goog-wm-qt:focus {
                 border-color: #105cb6;
                 outline: 0;
-                color: #222;
+                color: #F00;
             }
 
             input::-moz-focus-inner {
@@ -141,8 +141,13 @@
     </head>
     <body>
         <div class="container">
+<<<<<<< HEAD
             <h1>Não pode estar na master <span>:(</span></h1>
+            <p>Desculpe, mas a página que você estava tentando visualizar não existe.</p>
+=======
+            <h1>Não encontrada <span>:(</span></h1>
             <p>teste hotfixes.</p>
+>>>>>>> master
             <p>Parece que este foi o resultado de qualquer:</p>
             <ul>
                 <li>a mistyped address</li>
